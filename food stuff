@@ -3,12 +3,22 @@
 <head>
 <title>Food liked by us</title>
 </head>
-<body>
+<body style="background-color:lightgreen;">>
 
-<h1>Food liked by us  </h1>
-<p>-Sea food-</p>
-<p>-Fast food-</p>
+<h1 style="text-align:center;">Food liked by us 
+</h1>
+<p style="color:red;">by Joshua Franklin</p>
+<p style="color:blue;"> and Nyle Shields</p>
+<hr>
+<p> This homepage will be used as a host of links to various resteraunts and foods based 
+off of the type's of food we love to eat. the two types of food we love eating are fast 
+food and seafood. Joshua likes fast food because it can taste good at times and is cheap.
+Nyle likes seafood because the sea/acean itself is a very vast and big place with tons 
+of marine life to eat to this day i have yet to experience half of what the sea can offer my tatse buds.
+</p>
+
 <a> href="https://google.com"> Links for sea food</a>
+<hr>
 <a >href="https://google.com"> Links for fast food</a>
 
 
