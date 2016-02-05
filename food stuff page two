@@ -5,7 +5,7 @@
 </head>
 
 <body style="background-color:lightblue;">
-<p style= "font-family:Arial Black;" > This is page will showcase some of our favorite foods and a description of said food </p>
+<p style= "font-family:Arial Black;" > This page will showcase some of our favorite foods and a description of said food </p>
 <hr>
 <img src="D:\SCHOOL\programming\html\html pictures chonch balls.jpg" alt= "chonch balls" style= width:"304px;height228px;">
 <p style="color:darkblue;"> These conch balls are made from chonch a shell fish by grinded up the 
