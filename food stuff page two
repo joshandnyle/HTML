@@ -1,12 +1,19 @@
 <!doctype html>
 <html>
 <head>
-<title>THIS IS OUR FOOD BIO </title>
+<title style="text-align:center;">THIS IS OUR FOOD BIO </title>
 </head>
 
-<body>
+<body style="background-color:lightblue;">
+<p style= "font-family:Arial Black;" > This is page will showcase some of our favorite foods and a description of said food </p>
+<hr>
 <img src="D:\SCHOOL\programming\html\html pictures chonch balls.jpg alt= chonch balls style= width:304px;height228px>
-<p> these conch balls are made from chonch a shell fish by grinded up the muscles you get a chewy and delicous meal </P>
+<p style="color:blue;"> These conch balls are made from chonch a shell fish by grinded up the 
+muscles you get a chewy and delicous meal </P>
 <hr>
 <img src="D:\SCHOOL\programming\html\html pictures KFC-Chicken-1-400.jpg" alt="Mountain View" style="width:304px;height:228px;">
-<p> This Chicken comes from the fast food chain called KFC and the chicken they sell will make you come back for seconds 
+<p style="color:red;">This Chicken comes from the fast food chain called KFC and the chicken they sell will make you come back for seconds 
+
+<a "D:\SCHOOL\programming\html food.html"> Back to home page
+
+</body>
