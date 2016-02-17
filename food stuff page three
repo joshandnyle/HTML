@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1=style"text-align:center;"> Author of page contact infomation </h1>
+<h1=style"text-align:center;"> email Nyle Shields  </h1>
 </head>
-<body style="background-color":blue;>
-<p style="text-align":justify;">Joshua Franklin</p>  
-<a href="mailto:brenjosh2@gmail.com"> enail me about chicken</a>
-<hr>
-<p style="text-align:justify;">Nyle Shields</P>
-<a href="mailto:neox321drago@gmail.com"> email me about sea food </a>
-<hr>
-<a href= "D:\SCHOOL\programming\html\food2.html">food bio
-<a href ="D:\SCHOOL\programming\html\food.html"> back to first link
-<a href ="D:\SCHOOL\programming\html\homepage.html">homepage 
-</body>
-</html>
+<form action="MAILTO:neox321drago@gmail.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name" value="your name"><br>
+E-mail:<br>
+<input type="text" name="mail" value="your email"><br>
+Comment:<br>
+<input type="text" name="comment" value="your comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+
+</html> 
+
